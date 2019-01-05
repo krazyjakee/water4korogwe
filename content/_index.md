@@ -4,6 +4,7 @@ Date: 2008-11-13T12:14:00-04:00
 Author: admin
 Slug: the-charity
 menu: main
+weight: 1
 ---
 
 [![IMG_0183](/images/IMG_0183.jpg)](/images/IMG_0183.jpg)

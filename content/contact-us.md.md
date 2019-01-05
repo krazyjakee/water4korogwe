@@ -3,6 +3,8 @@ title: "Contact Us"
 Date: 2008-11-13T14:06:00-04:00
 Author: admin
 Slug: contact-us
+menu: main
+weight: 6
 ---
 
 <!-- wp:paragraph -->

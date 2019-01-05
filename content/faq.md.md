@@ -3,6 +3,8 @@ title: "FAQ"
 Date: 2008-11-13T13:30:00-04:00
 Author: admin
 Slug: faq
+menu: main
+weight: 4
 ---
 
 [**Frequently Asked Questions**]

@@ -3,6 +3,8 @@ title: "Achievements"
 Date: 2008-11-13T15:23:00-04:00
 Author: admin
 Slug: achievements
+menu: main
+weight: 3
 ---
 
 [[**Achievements So Far**]

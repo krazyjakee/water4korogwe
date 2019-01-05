@@ -3,6 +3,8 @@ title: "DAK's Story"
 Date: 2008-11-13T12:48:00-04:00
 Author: admin
 Slug: daks-story
+menu: main
+weight: 2
 ---
 
 [**[How it all Began]
