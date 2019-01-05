@@ -1,0 +1,46 @@
+body {
+    background: -webkit-linear-gradient(top, #276822 0%,#506d34 0%,#f2c357 24%,#f29d00 100%);
+}
+
+.container--outer {
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0px 1px 50px 1px #000;
+}
+
+nav.menu {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+nav .menu__list {
+    background: -webkit-linear-gradient(top, #085300 0%,#153B00 100%);
+}
+
+.menu__item.menu__item--active {
+    background: -webkit-linear-gradient(top, #BBCD43 0%,#97903F 100%);
+}
+
+.main__content img {
+    display: block;
+    margin: 0 auto;
+}
+
+.logo {
+    padding: 10px;
+}
+
+.logo__link {
+    display: block;
+    text-align: center;
+}
+
+.logo__link img {
+    width: 237px;
+    height: 100px;
+}
+
+.paypal-donations {
+    text-align: center;
+    margin-bottom: 15px;
+}
